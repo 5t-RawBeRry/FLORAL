@@ -1,0 +1,6 @@
+[submodule "wireguard-linux-compat"]
+	path = wireguard-linux-compat
+	url = https://git.zx2c4.com/wireguard-linux-compat
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://github.com/tiann/KernelSU
